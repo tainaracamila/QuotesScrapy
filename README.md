@@ -9,7 +9,7 @@ Go to the project's root directory and run:
 pytest -v
 ```
 
-## Running scraper 
+## Running Scraper 
 
 Go to the project's root directory and run:
 
