@@ -14,5 +14,5 @@ pytest -v
 Go to the project's root directory and run:
 
 ```python
-scrapy crawl quotes
+scrapy crawl qt
 ```
